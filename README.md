@@ -19,7 +19,15 @@ There are programs that convert ASCII graphics into HTML in real graphic formats
 There are also programs and program libraries that convert images and videos into ASCII images (aalib) or ASCII movies (aaplayer). Interpreting the original graphic as a template for line drawing is rare. Image brightness is often achieved by the area coverage of the characters used. The JavE program, for example, allows you to influence the result of such a conversion by selecting different character groups and changing the brightness and contrast of the template. Such automatic conversions usually produce very large images; for smaller formats, the quality is usually unsatisfactory without extensive manual post-processing, depending on the image source.
 When using OpenGL on ATI graphics cards under Windows, there is a so-called “smart shader” (a real-time shader-based calculation effect) that displays the rendered image data as ASCII art on the screen.
 
+</br>
 
-![ASCii HTML Creator 1 0](https://github.com/user-attachments/assets/06c3cc79-f591-46b0-8d1e-a59998c94b37)
+![ASCii to HTML](https://github.com/user-attachments/assets/f6bf86a7-27a0-4715-8961-c0ff65249ecb)
+
+</br>
+
+### Result
+
+![Example](https://github.com/user-attachments/assets/4aef29f7-cdc7-40cf-93f9-28ad68f79ce4)
+
 
 
