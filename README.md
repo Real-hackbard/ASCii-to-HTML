@@ -18,6 +18,22 @@ There are programs that convert [ASCII Graphics](https://en.wikipedia.org/wiki/A
 
 In the 1960s, [Andries van Dam](https://en.wikipedia.org/wiki/Andries_van_Dam) published a representation of an electronic circuit produced on an [IBM 1403](https://en.wikipedia.org/wiki/IBM_1403) line printer. At the same time, [Kenneth Knowlton](https://en.wikipedia.org/wiki/Ken_Knowlton) was producing realistic images, also on line printers, by overprinting several characters on top of one another. Note that it was not ASCII art in a sense that the 1403 was driven by an [EBCDIC-Coded](https://en.wikipedia.org/wiki/EBCDIC) platform and the character sets and trains available on the 1403 were derived from EBCDIC rather than ASCII, despite some glyphs commonalities.
 
+### Features:
+* Adjust Scale
+* Adjust Brightness
+* Adjust Contrast
+* Invert
+* RGB Color
+* HTML BGR Color
+* HTML Font Size
+* Screen Ratio
+* Grayscale
+* Tranzparent
+* Flip Image X/Y
+* Calculate Sepia
+* Resample Image
+* Turn Image
+
 </br>
 
 ![ASCii to HTML](https://github.com/user-attachments/assets/f6bf86a7-27a0-4715-8961-c0ff65249ecb)
