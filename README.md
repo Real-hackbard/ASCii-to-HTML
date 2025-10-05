@@ -44,5 +44,9 @@ In the 1960s, [Andries van Dam](https://en.wikipedia.org/wiki/Andries_van_Dam) p
 
 ![Example](https://github.com/user-attachments/assets/4aef29f7-cdc7-40cf-93f9-28ad68f79ce4)
 
+</br>
 
+The widespread usage of ASCII art can be traced to the computer [bulletin board](https://en.wikipedia.org/wiki/Bulletin_board_system) systems of the late 1970s and early 1980s. The limitations of computers of that time period necessitated the use of text characters to represent images. Along with ASCII's use in communication, however, it also began to appear in the underground online art groups of the period.
+
+### Have fun with ASCii!
 
