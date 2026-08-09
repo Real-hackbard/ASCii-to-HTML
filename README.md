@@ -73,9 +73,9 @@ Convert ASCII text characters directly into hex colors. If you want to translate
 
 | Text / ASCII | Hex value (web color) | Color example | Explanation |
 | :----------- | :----------- | :----------- | :----------- |
-| ABC     | #414243     | Dark gray     | A=41, B=42, C=43 in Hex |
-| RGB     | #726762     | Brown-gray     | r=72, g=67, b=62 in Hex |
-| 123     | #313233     | Almost Black     | 1=31, 2=32, 3=33 in Hex |
+| ABC     | ```#414243```     | Dark gray     | A=41, B=42, C=43 in Hex |
+| RGB     | ```#726762```     | Brown-gray     | r=72, g=67, b=62 in Hex |
+| 123     | ```#313233```     | Almost Black     | 1=31, 2=32, 3=33 in Hex |
 
 </br>
 
@@ -85,14 +85,14 @@ ANSI terminal color codes (ASCII art) to HTML web colors. In classic terminal sc
 
 | Color | Web Color |
 | :----------- | :----------- |
-| Black (ASCII \033[30m)     | #000000     |
-| Red (ASCII \033[31m)     | #FF0000     |
-| Green (ASCII \033[32m)     | #00FF00     |
-| Yellow (ASCII \033[33m)     | #FFFF00     |
-| Blue (ASCII \033[34m)     | #0000FF     |
-| Magenta (ASCII \033[35m)     | #FF00FF     |
-| Cyan (ASCII \033[36m)     | #00FFFF     |
-| White (ASCII \033[37m)     | #FFFFFF     |
+| Black (ASCII \033[30m)     | ```#000000```     |
+| Red (ASCII \033[31m)     | ```#FF0000```     |
+| Green (ASCII \033[32m)     | ```#00FF00```     |
+| Yellow (ASCII \033[33m)     | ```#FFFF00```     |
+| Blue (ASCII \033[34m)     | ```#0000FF```     |
+| Magenta (ASCII \033[35m)     | ```#FF00FF```     |
+| Cyan (ASCII \033[36m)     | ```#00FFFF```     |
+| White (ASCII \033[37m)     | ```#FFFFFF```     |
 
 </br>
 
