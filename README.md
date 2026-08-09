@@ -77,6 +77,17 @@ Convert ASCII text characters directly into hex colors. If you want to translate
 | RGB     | #726762     | Brown-gray     | r=72, g=67, b=62 in Hex |
 | 123     | #313233     | Almost Black     | 1=31, 2=32, 3=33 in Hex |
 
+</br>
+
+ANSI terminal color codes (ASCII art) to HTML web colors. In classic terminal scripts and ASCII art, text colors are controlled via so-called ANSI escape sequences. Modern websites use CSS styles to display these colors in the browser.
+
+</br>
+
+| Color | Web Color |
+| :-----------: | :-----------: |
+| Black (ASCII \033[30m)     | #000000     |
+| Red (ASCII \033[31m)     | #FF0000     |
+
 
 
 
