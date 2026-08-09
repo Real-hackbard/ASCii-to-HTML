@@ -96,7 +96,7 @@ Convert ASCII text characters directly into hex colors. If you want to translate
 
 </br>
 
-::speech_balloon:: JavaScript code for automatic conversion: If you are looking for a programmed solution to generate a reproducible web color (hex code) from any ASCII string, this function will help:
+:speech_balloon: JavaScript code for automatic conversion: If you are looking for a programmed solution to generate a reproducible web color (hex code) from any ASCII string, this function will help:
 
 ```java
 function asciiToWebColor(str) {
