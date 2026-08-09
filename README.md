@@ -79,7 +79,7 @@ Convert ASCII text characters directly into hex colors. If you want to translate
 
 </br>
 
-ANSI terminal color codes (ASCII art) to HTML web colors. In classic terminal scripts and ASCII art, text colors are controlled via so-called ANSI escape sequences. Modern websites use CSS styles to display these colors in the browser.
+[ANSI terminal color codes](https://en.wikipedia.org/wiki/ANSI_escape_code) (ASCII art) to HTML web colors. In classic terminal scripts and ASCII art, text colors are controlled via so-called ANSI escape sequences. Modern websites use CSS styles to display these colors in the browser.
 
 </br>
 
