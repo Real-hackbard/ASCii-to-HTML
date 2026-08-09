@@ -54,9 +54,11 @@ The widespread usage of ASCII art can be traced to the computer [bulletin board]
 ![Components](https://github.com/user-attachments/assets/d6a7a7a4-f10e-4df1-9c4f-b4a1a8db7f0e) <img src="https://github.com/user-attachments/assets/301ed801-cd18-4e87-abe0-be4937c6f85c" />  
 ![Discription](https://github.com/user-attachments/assets/4a778202-1072-463a-bfa3-842226e300af) <img src="https://github.com/user-attachments/assets/a7b3a4da-5e40-45da-908a-94ae96240c17" />  
 
+</br>
 
+Converting ASCII to web code usually means translating plain text or special characters into HTML entities, URL-encoded strings, or JavaScript strings so that they display correctly in the browser.
 
-
+A direct ASCII-to-web-color converter transforms the numerical values ​​of ASCII characters (0–255) or text strings into valid hex color codes (#RRGGBB), RGB values, or ANSI terminal colors. Since "ASCII to web color" can mean different things depending on the context, the three most common use cases and their corresponding conversions are outlined below.
 
 </br>
 
