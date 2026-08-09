@@ -94,6 +94,29 @@ ANSI terminal color codes (ASCII art) to HTML web colors. In classic terminal sc
 | Cyan (ASCII \033[36m)     | #00FFFF     |
 | White (ASCII \033[37m)     | #FFFFFF     |
 
+</br>
+
+JavaScript code for automatic conversion: If you are looking for a programmed solution to generate a reproducible web color (hex code) from any ASCII string, this function will help:
+
+```java
+function asciiToWebColor(str) {
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+        // Converts the character to its numeric ASCII code.
+        hash = str.charCodeAt(i) + ((hash << 5) - hash);
+    }
+    let color = '#';
+    for (let i = 0; i < 3; i++) {
+        // Extracts the RGB channels
+        let value = (hash >> (i * 8)) & 0xFF;
+        color += ('00' + value.toString(16)).slice(-2);
+    }
+    return color;
+}
+
+// Example:
+console.log(asciiToWebColor("ASCII")); // Outputs a valid hex color code.
+```
 
 
 </br>
