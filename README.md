@@ -84,10 +84,15 @@ ANSI terminal color codes (ASCII art) to HTML web colors. In classic terminal sc
 </br>
 
 | Color | Web Color |
-| :-----------: | :-----------: |
+| :----------- | :----------- |
 | Black (ASCII \033[30m)     | #000000     |
 | Red (ASCII \033[31m)     | #FF0000     |
-
+| Green (ASCII \033[32m)     | #00FF00     |
+| Yellow (ASCII \033[33m)     | #FFFF00     |
+| Blue (ASCII \033[34m)     | #0000FF     |
+| Magenta (ASCII \033[35m)     | #FF00FF     |
+| Cyan (ASCII \033[36m)     | #00FFFF     |
+| White (ASCII \033[37m)     | #FFFFFF     |
 
 
 
