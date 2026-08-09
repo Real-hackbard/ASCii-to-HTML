@@ -124,8 +124,7 @@ JavaScript WebColor : https://wiki.q-researchsoftware.com/wiki/JavaScript_Color_
 
 Web colors, also known as hex codes and color codes, are colors used in displaying web pages on the World Wide Web; they can be described by way of three methods: a color may be specified as an RGB triplet, in [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) format (a hex triplet) or according to its common English name in some cases. A [color tool](https://en.wikipedia.org/wiki/Color_picker) or other graphics software is often used to generate color values. In some uses, hexadecimal color codes are specified with notation using a leading number sign (#). A color is specified according to the intensity of its red, green and blue components, each represented by eight bits. Thus, there are 24 bits used to specify a web color within the [sRGB](https://en.wikipedia.org/wiki/SRGB) gamut, and 16,777,216 colors that may be so specified. In hexadecimal, these are specified with two hexadecimal digits per color, leading to a total of six hexadecimal digits. In some contexts, it is possible to specify two more place values, which provide a transparency (alpha) channel.
 
-
 </br>
 
-### Have fun with ASCii!
+## :speech_balloon: Have fun with ASCii!
 
