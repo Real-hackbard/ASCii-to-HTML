@@ -47,10 +47,11 @@ In the 1960s, [Andries van Dam](https://en.wikipedia.org/wiki/Andries_van_Dam) p
 
 The widespread usage of ASCII art can be traced to the computer [bulletin board](https://en.wikipedia.org/wiki/Bulletin_board_system) systems of the late 1970s and early 1980s. The limitations of computers of that time period necessitated the use of text characters to represent images. Along with ASCII's use in communication, however, it also began to appear in the underground online art groups of the period.
 
+</br>
 
-
-# 💻 ASCII to WebCode <img src="https://github.com/user-attachments/assets/dc250589-4940-4957-8741-a7f8f63df417" />
-
+# 💻 ASCII to WebCode 
+![Compiler](https://github.com/user-attachments/assets/a916143d-3f1b-4e1f-b1e0-1067ef9e0401) <img src="https://github.com/user-attachments/assets/dc250589-4940-4957-8741-a7f8f63df417" />  
+![Components](https://github.com/user-attachments/assets/d6a7a7a4-f10e-4df1-9c4f-b4a1a8db7f0e) <img src="https://github.com/user-attachments/assets/301ed801-cd18-4e87-abe0-be4937c6f85c" />  
 
 
 
