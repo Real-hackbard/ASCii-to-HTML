@@ -62,5 +62,25 @@ A direct ASCII-to-web-color converter transforms the numerical values ​​of A
 
 </br>
 
+<img src="https://github.com/user-attachments/assets/369fbdd4-0b41-423f-9494-33aa9980ba43" />
+
+</br>
+</br>
+
+Convert ASCII text characters directly into hex colors. If you want to translate text (e.g., 3 or 6 letters) directly into a color swatch, each letter corresponds to a hexadecimal number based on its ASCII value.
+
+</br>
+
+| Text / ASCII | Hex value (web color) | Color example | Explanation |
+| :----------- | :----------- | :----------- | :----------- |
+| ABC     | #414243     | Dark gray     | A=41, B=42, C=43 in Hex |
+| RGB     | #726762     | Brown-gray     | r=72, g=67, b=62 in Hex |
+| 123     | #313233     | Almost Black     | 1=31, 2=32, 3=33 in Hex |
+
+
+
+
+</br>
+
 ### Have fun with ASCii!
 
